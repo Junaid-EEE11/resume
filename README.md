@@ -1,34 +1,24 @@
-# Junaid Hossain — Academic Portfolio
+# Junaid Hossain — Professional Portfolio
 
-This repository contains my academic and professional portfolio, focused on electrical engineering, power-distribution systems, data science, and smart-grid research.
+This repository contains the professional and academic portfolio of Junaid Hossain, an electrical engineer and applied statistics and data-science graduate based in Dhaka, Bangladesh.
 
-## Focus areas
+## Portfolio content
 
-- Power-distribution and substation operation and maintenance
-- Statistical analysis and machine learning
-- Predictive maintenance and time-series forecasting
-- Smart-grid analytics and sustainable energy systems
-
-## Site content
-
-The site includes:
-
-- Professional background and contact details
-- Curriculum vitae
-- Selected engineering and data-science projects
-- Research interests and future directions
-- Blog, publication, and teaching sections as they are developed
+- Employment at Dhaka Power Distribution Company Limited and Coal Power Generation Company Bangladesh Limited
+- Master’s in Applied Statistics and Data Science from Jahangirnagar University
+- BSc in Electrical and Electronic Engineering from BUET
+- Graduate vehicle-price prediction project and reported model results
+- Professional power-system, smart-metering, substation, and safety training
+- Mathematics Olympiad achievements
 
 ## Development
 
-This site is built with Jekyll and the al-folio theme.
+The site uses Jekyll with the pluginized al-folio v1 architecture.
 
 ```bash
 bundle install
 bundle exec jekyll serve --livereload
 ```
-
-Then open `http://localhost:4000`.
 
 ## Links
 

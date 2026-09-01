@@ -1,31 +1,48 @@
 ---
 layout: page
-title: Electrical Load Calculation
-description: Electrical load assessment and service design for residential buildings
+title: Predicting Vehicle Prices
+description: MSc data-analysis project using machine-learning techniques
 img:
 importance: 1
-category: work
+category: data-science
 related_publications: false
 ---
 
-Electrical load calculations help establish a safe, practical, and standards-aware electrical service design before a residential building project is submitted for approval.
+## Overview
 
-## Scope
+This graduate project was completed for the Weekend Masters in Applied Statistics and Data Science program at Jahangirnagar University. The report is dated 26 January 2025 and was supervised by Dr. Abdus Salam, Professor in the Department of Statistics and Data Science.
 
-- Estimate connected and demand loads
-- Organize residential circuits and distribution requirements
-- Prepare service-design documentation
-- Check assumptions against applicable electrical standards
+## Objective
 
-## Project notes
+The project aimed to estimate vehicle prices, identify influential pricing factors, and provide decision-support insights for buyers and sellers.
 
-The calculations and supporting documentation are based on project data and engineering requirements. Examples and images on this page should be replaced with project-specific figures, drawings, and results as they become available.
+## Dataset and preparation
 
-## Next improvements
+- **9,988 records**
+- **18 vehicle-related fields**
+- Duplicate removal and context-specific missing-value handling
+- Feature engineering, one-hot encoding, IQR-based outlier handling, and numerical scaling
+- Engineered vehicle age, registration lag, and views per hour
 
-Planned documentation for this project includes:
+## Methods considered
 
-- A worked example with anonymized input data
-- The calculation method and assumptions
-- A summary table of results
-- Reference standards and design constraints
+- Linear Regression
+- Random Forest
+- XGBoost
+- LightGBM
+- CatBoost
+- Artificial neural networks
+- Clustering
+- Content-based vehicle recommendation
+
+## Results
+
+Random Forest Regressor was selected as the final model.
+
+| Metric |    Result |
+| ------ | --------: |
+| R²     |      0.80 |
+| MAE    |   374,433 |
+| RMSE   | 1,927,833 |
+
+Engine capacity, model, vehicle age, kilometers run, and brand were reported as the most influential features. The report concluded that older age and higher mileage generally reduce price, while engine capacity, brand, and model materially affect it.

@@ -1,134 +1,136 @@
 cv:
   name: Junaid Hossain
-  label: Electrical Engineer | Data Scientist
+  label: Electrical Engineer | Applied Statistics and Data Science
   email: junaid.hossain@dpdc.gov.bd
   location: Dhaka, Bangladesh
   image: ""
-  summary:    Electrical Engineer with professional experience in
-    power distribution systems and advanced training in
-    Applied Statistics and Data Science. Interested in
-    AI applications in energy systems, predictive
-    maintenance, and smart grid analytics.
-    
+  summary: Electrical engineer with professional experience at DPDC and CPGCBL and a Master’s in Applied Statistics and Data Science. Graduate project work focused on vehicle-price prediction with statistical and machine-learning methods.
+
   social_networks:
     - network: GitHub
-      username: Junaid-eee11
+      username: Junaid-EEE11
     - network: LinkedIn
-      username: Junaid-eee11
-
-  address:
-    city: Dhaka
-    region: Hazaribagh
-    postalCode: Dhaka 1209
-    countryCode: BD
+      username: junaid-eee11
 
   sections:
     Education:
-      - institution: BUET
+      - institution: Jahangirnagar University
+        location: Savar, Dhaka, Bangladesh
+        url: https://www.juniv.edu/
+        area: Applied Statistics and Data Science
+        studyType: Master’s
+        start_date: 2023
+        end_date: 2024
+        score: CGPA 3.79/4.00
+        highlights:
+          - Completed 36 credit hours.
+          - Studied probability, sampling, statistical inference, multivariate analysis, machine learning, time-series forecasting, data mining, big data, and categorical data analysis.
+          - Completed the project Predicting Vehicle Prices Using Machine Learning Techniques.
+
+      - institution: Bangladesh University of Engineering and Technology
         location: Dhaka, Bangladesh
         url: https://www.buet.ac.bd/
-        area: EEE
+        area: Electrical and Electronic Engineering
         studyType: BSc
         start_date: 2012
         end_date: 2017
-        score: ""
+        score: GPA 3.07/4.00
         highlights:
-          - Mathematics.
-          - Electrical Control system.
+          - Completed 157.5 credits.
+          - BUET-certified equivalence of First Class and 65.40% marks.
 
-      - institution: Jahangir Nagar University
-        location: Savar, Gazipur, Bangladesh
-        area: Data Science
-        studyType: MSc
-        start_date: 2023
-        end_date: 2025
-        highlights:
-          - Machine Learning.
-          - Big data.
+      - institution: Bir Shreshtha Noor Mohammad Rifles Public School & College
+        location: Dhaka, Bangladesh
+        area: Science
+        studyType: Higher Secondary Certificate
+        end_date: 2011
+        score: GPA 5.00/5.00
+
+      - institution: A. N. M. High School
+        location: Bangladesh
+        area: Science
+        studyType: Secondary School Certificate
+        end_date: 2009
+        score: GPA 5.00/5.00
 
     Experience:
-      - company: Dhaka Power Distribution Company (DPDC)
+      - company: Dhaka Power Distribution Company Limited
         position: Assistant Engineer
-        location: Dhaka
-        start_date: 2019
+        location: Dhaka, Bangladesh
+        start_date: 2019-12
         end_date: present
-        summary: Managed the operation and maintenance of critical power distribution infrastructure, led predictive and preventive maintenance programs, and analyzed large-scale operational data to support data-driven decision-making and improve system reliability.
-        highlights:
-          - Managed and maintained 2 AIS 33/11 kV substations, 7 GIS 33/11 kV substations, and one 132/33 kV grid substation, ensuring reliable and efficient power distribution.
-          - Diagnosed and resolved electrical faults, minimizing downtime and enhancing network reliability.
-          - Led annual predictive and preventive maintenance programs to reduce asset failure risks and optimize equipment performance.
-          - Supervised technical teams to achieve monthly network improvement and operational reliability targets.
-          - Operated and maintained more than 5 distribution feeders and associated low-voltage networks, ensuring uninterrupted service to over 20,000 customers.
-          - Analyzed operational and customer datasets containing over 60,000 records to support service optimization and performance improvement initiatives.
+        summary: Joined DPDC on 3 December 2019. Official records identify assignments in NOCS, Banasree and NOCS, Shamoli.
 
-      - company: Coal Power Generation Company Bangladesh Ltd. (CPGCBL)
-        position: Assistant Engineer
-        location: Matarbari, Cox's-bazar
-        start_date: 2018
-        end_date: 2019
-        highlights:
-        - Analyzed and verified land acquisition and compensation records for more than 52,000 stakeholders, ensuring data accuracy and regulatory compliance.
-        - Developed Python-based tools to identify and prevent duplicate compensation claims and improve document retrieval efficiency.
-        - Coordinated with service providers, government agencies, and stakeholders to resolve technical and administrative issues effectively
-
-    Awards:
-      - title: 3rd place in National Undergraduate Mathematical Olympiads
-        date: 2012
-        organizer: Bangladesh Mathematical Society
-        #url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The National Undergraduate Mathematics Olympiad (NUMO) is the flagship annual competition organized by the Bangladesh Mathematical Society
-
-      - title: a Champion in Higher Secondary category in Regional Mathematical Olympiad 
-        date: 2010
-        awarder: Bangladesh Mathematical Olympiad committee
-        summary: Awarded for excellent achievement
-        
-    Skills:
-      - name: Programming
-        icon: fa-solid fa-hashtag
-        keywords: "Python, C++"
-
-      - name: Machine Learning
-        icon: fa-solid fa-hashtag
-        keywords: "Supervised and unsupervised learning, neural networks, ensemble methods"        
- 
-      - name: Data Analysis
-        icon: fa-solid fa-hashtag
-        keywords: "Statistical modeling, time-series analysis, feature engineering"
-
-      - name: Power Systems
-        icon: fa-solid fa-hashtag
-        keywords: "Substation operation, distribution networks, predictive and preventive maintenance"   
-
-    Languages:
-      - name: Bangla
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Data-driven power systems and smart grids
-        icon: fa-solid fa-tag
-        keywords: "Predictive maintenance, Fault diagnostics, Cyber-physical energy systems, Infrastructure resilience, Machine learning, Statistical methods for energy systems"
-
-    Certificates:
-      - name: O&M of distribution transformer
-        date: 2019
-        issuer: BPMI
-        icon: fa-solid fa-location-dot
+      - company: Coal Power Generation Company Bangladesh Limited
+        position: Assistant Engineer (Electrical)
+        location: Bangladesh
+        start_date: 2018-07
+        end_date: 2019-12
+        summary: Served from 15 July 2018 through 2 December 2019.
 
     Projects:
-      - name: Predicting Vehicle Prices Using Machine Learning
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-        - Developed a machine learning pipeline for vehicle price prediction using structured automotive data and feature engineering techniques.
-        - Implemented and optimized a Random Forest regression model, achieving strong predictive performance based on R² and error metrics.
-        - Performed feature importance analysis to identify key factors influencing vehicle prices and improve model interpretability.
+      - name: Predicting Vehicle Prices Using Machine Learning Techniques
         start_date: 2024
         end_date: 2025
+        summary: Graduate data-analysis project using 9,988 vehicle records and 18 fields.
+        highlights:
+          - Prepared data through duplicate removal, missing-value treatment, feature engineering, categorical encoding, outlier handling, and scaling.
+          - Considered linear and ensemble regressors, neural networks, clustering, and recommendation methods.
+          - Selected Random Forest Regressor with R² 0.80, MAE 374,433, and RMSE 1,927,833.
+          - Identified engine capacity, model, vehicle age, kilometers run, and brand as the most influential reported features.
 
-   # References:
- #     - name: Professor John Doe
-   #     icon: fa-solid fa-laptop
-   #     reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    Awards:
+      - title: Third Position
+        date: 2013-01-26
+        awarder: 4th National Undergraduate Mathematics Olympiad 2012
+        summary: Represented BUET's Department of Electrical and Electronic Engineering.
+
+      - title: Champion, Higher Secondary Category
+        date: 2010-01-29
+        awarder: Regional Mathematical Olympiad
+        summary: Regional competition held in Dhaka.
+
+      - title: Contestant with Performance Recognition
+        date: 2014-03-20
+        awarder: 5th National Undergraduate Mathematics Olympiad 2013
+        summary: Participated in the Dhaka regional and national events.
+
+    Certificates:
+      - name: Installation, Operation, Maintenance, Testing & Commissioning of 110 V DC Battery & Battery Charger
+        date: 2024-11
+        issuer: System Engineering Ltd.
+
+      - name: Operation and Maintenance of 33/11 kV Substation Equipment
+        date: 2024-10
+        issuer: TBEA
+
+      - name: Power System Protection
+        date: 2024-10
+        issuer: Dhaka Power Distribution Company Limited
+
+      - name: AMI & Prepaid Metering System
+        date: 2022-04
+        issuer: Dhaka Power Distribution Company Limited
+
+      - name: 11th Foundation Training Course
+        date: 2022-01
+        issuer: Dhaka Power Distribution Company Limited
+
+      - name: Smart Pre-Payment Metering System & Smart Grid
+        date: 2020-07
+        issuer: Bangladesh Power Management Institute
+
+      - name: Fire Fighting, Fire Prevention, Rescue and First Aid
+        date: 2019-09
+        issuer: Bangladesh Fire Service & Civil Defence
+
+      - name: Operation & Maintenance of Distribution & Power Transformer
+        date: 2019-07
+        issuer: Bangladesh Power Management Institute
+
+    Academic Coursework:
+      - name: Statistics and Data Science
+        keywords: Probability, sampling, statistical inference, multivariate analysis, machine learning, time-series forecasting, data mining, big data, categorical data analysis
+
+      - name: Electrical Engineering
+        keywords: Electrical circuits, energy conversion, power systems, control systems, power electronics, digital signal processing, communications, measurement and instrumentation
