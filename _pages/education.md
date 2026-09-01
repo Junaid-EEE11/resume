@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /education/
-title: education
-description: Verified academic qualifications and graduate project.
+title: Education
+description: Academic qualifications and graduate project.
 nav: true
 nav_order: 3
 ---

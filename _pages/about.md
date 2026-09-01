@@ -1,12 +1,12 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Electrical Engineer | Applied Statistics and Data Science
 
 profile:
   align: right
-  image: profile-image.png
+  image: profile-image.webp
   image_circular: false
   more_info: >
     <p>Dhaka, Bangladesh</p>

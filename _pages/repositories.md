@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
+title: Repositories
 description: GitHub profile and selected repositories for Junaid Hossain.
 nav: false
 nav_order: 4

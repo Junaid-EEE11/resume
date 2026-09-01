@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: research output
+title: Research Output
 description: Graduate project report and documented research output.
 nav: false
 ---

@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /experience/
-title: experience
-description: Verified employment history, professional training, and achievements.
+title: Experience
+description: Employment history, professional training, and achievements.
 nav: true
 nav_order: 2
 ---

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: Verified data-science project work.
+description: Data-science project work.
 nav: true
 nav_order: 4
 display_categories: [data-science]

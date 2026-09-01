@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /contact/
-title: contact
+title: Contact
 description: Contact Junaid Hossain.
 nav: true
 nav_order: 6
