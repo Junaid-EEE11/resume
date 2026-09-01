@@ -14,7 +14,7 @@ nav_order: 2
 **Assistant Engineer**  
 **December 2019–present · Dhaka, Bangladesh**
 
-I joined DPDC on 3 December 2019. Official records identify assignments in NOCS, Banasree and, most recently, NOCS, Shamoli.
+I joined DPDC on 3 December 2019, first working office in NOCS, Banasree, after that grid north-1, and, most recently, NOCS, Shamoli.
 
 ### Coal Power Generation Company Bangladesh Limited
 
