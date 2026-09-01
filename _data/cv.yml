@@ -1,0 +1,134 @@
+cv:
+  name: Junaid Hossain
+  label: Electrical Engineer | Data Scientist
+  email: junaid.hossain@dpdc.gov.bd
+  location: Dhaka, Bangladesh
+  image: ""
+  summary:    Electrical Engineer with professional experience in
+    power distribution systems and advanced training in
+    Applied Statistics and Data Science. Interested in
+    AI applications in energy systems, predictive
+    maintenance, and smart grid analytics.
+    
+  social_networks:
+    - network: GitHub
+      username: Junaid-eee11
+    - network: LinkedIn
+      username: Junaid-eee11
+
+  address:
+    city: Dhaka
+    region: Hazaribagh
+    postalCode: Dhaka 1209
+    countryCode: BD
+
+  sections:
+    Education:
+      - institution: BUET
+        location: Dhaka, Bangladesh
+        url: https://www.buet.ac.bd/
+        area: EEE
+        studyType: BSc
+        start_date: 2012
+        end_date: 2017
+        score: ""
+        highlights:
+          - Mathematics.
+          - Electrical Control system.
+
+      - institution: Jahangir Nagar University
+        location: Savar, Gazipur, Bangladesh
+        area: Data Science
+        studyType: MSc
+        start_date: 2023
+        end_date: 2025
+        highlights:
+          - Machine Learning.
+          - Big data.
+
+    Experience:
+      - company: Dhaka Power Distribution Company (DPDC)
+        position: Assistant Engineer
+        location: Dhaka
+        start_date: 2019
+        end_date: present
+        summary: Managed the operation and maintenance of critical power distribution infrastructure, led predictive and preventive maintenance programs, and analyzed large-scale operational data to support data-driven decision-making and improve system reliability.
+        highlights:
+          - Managed and maintained 2 AIS 33/11 kV substations, 7 GIS 33/11 kV substations, and one 132/33 kV grid substation, ensuring reliable and efficient power distribution.
+          - Diagnosed and resolved electrical faults, minimizing downtime and enhancing network reliability.
+          - Led annual predictive and preventive maintenance programs to reduce asset failure risks and optimize equipment performance.
+          - Supervised technical teams to achieve monthly network improvement and operational reliability targets.
+          - Operated and maintained more than 5 distribution feeders and associated low-voltage networks, ensuring uninterrupted service to over 20,000 customers.
+          - Analyzed operational and customer datasets containing over 60,000 records to support service optimization and performance improvement initiatives.
+
+      - company: Coal Power Generation Company Bangladesh Ltd. (CPGCBL)
+        position: Assistant Engineer
+        location: Matarbari, Cox's-bazar
+        start_date: 2018
+        end_date: 2019
+        highlights:
+        - Analyzed and verified land acquisition and compensation records for more than 52,000 stakeholders, ensuring data accuracy and regulatory compliance.
+        - Developed Python-based tools to identify and prevent duplicate compensation claims and improve document retrieval efficiency.
+        - Coordinated with service providers, government agencies, and stakeholders to resolve technical and administrative issues effectively
+
+    Awards:
+      - title: 3rd place in National Undergraduate Mathematical Olympiads
+        date: 2012
+        organizer: Bangladesh Mathematical Society
+        #url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+        summary: The National Undergraduate Mathematics Olympiad (NUMO) is the flagship annual competition organized by the Bangladesh Mathematical Society
+
+      - title: a Champion in Higher Secondary category in Regional Mathematical Olympiad 
+        date: 2010
+        awarder: Bangladesh Mathematical Olympiad committee
+        summary: Awarded for excellent achievement
+        
+    Skills:
+      - name: Programming
+        icon: fa-solid fa-hashtag
+        keywords: "Python, C++"
+
+      - name: Machine Learning
+        icon: fa-solid fa-hashtag
+        keywords: "Supervised and unsupervised learning, neural networks, ensemble methods"        
+ 
+      - name: Data Analysis
+        icon: fa-solid fa-hashtag
+        keywords: "Statistical modeling, time-series analysis, feature engineering"
+
+      - name: Power Systems
+        icon: fa-solid fa-hashtag
+        keywords: "Substation operation, distribution networks, predictive and preventive maintenance"   
+
+    Languages:
+      - name: Bangla
+        summary: "Native speaker"
+
+      - name: English
+        summary: "Fluent"
+
+    Interests:
+      - name: Data-driven power systems and smart grids
+        icon: fa-solid fa-tag
+        keywords: "Predictive maintenance, Fault diagnostics, Cyber-physical energy systems, Infrastructure resilience, Machine learning, Statistical methods for energy systems"
+
+    Certificates:
+      - name: O&M of distribution transformer
+        date: 2019
+        issuer: BPMI
+        icon: fa-solid fa-location-dot
+
+    Projects:
+      - name: Predicting Vehicle Prices Using Machine Learning
+        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+        highlights:
+        - Developed a machine learning pipeline for vehicle price prediction using structured automotive data and feature engineering techniques.
+        - Implemented and optimized a Random Forest regression model, achieving strong predictive performance based on R² and error metrics.
+        - Performed feature importance analysis to identify key factors influencing vehicle prices and improve model interpretability.
+        start_date: 2024
+        end_date: 2025
+
+   # References:
+ #     - name: Professor John Doe
+   #     icon: fa-solid fa-laptop
+   #     reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
