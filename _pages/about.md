@@ -6,6 +6,7 @@ subtitle: Electrical Engineer | Applied Statistics and Data Science
 
 profile:
   align: right
+  image: profile-image.png
   image_circular: false
   more_info: >
     <p>Dhaka, Bangladesh</p>
